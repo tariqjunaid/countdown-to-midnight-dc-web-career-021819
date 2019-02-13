@@ -16,6 +16,6 @@ def countdown_with_sleep(num_secs)
     num -= 1
     sleep 1
   end
-  puts "GOOD MORNING SAFA! ♥️♥️♥️I LOVE YOU ♥️♥️♥️"
+  puts "HAPPY NEW YEAR!"
 end
 #countdown_with_sleep(10)
