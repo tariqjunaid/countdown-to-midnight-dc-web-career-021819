@@ -1,5 +1,5 @@
 #write your code here
-def loop
+def 
 def countdown(num_secs)
   num = num_secs
     while num > 0
